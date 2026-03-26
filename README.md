@@ -1,1 +1,1 @@
-This is the first program i ever made so dont judge, i dont care what you do with it, i uploaded the source code and stuff if you wanna have it be your own pets, its fine as long as you credit me. Hope you like it!
+This is the second program i ever made so dont judge, i dont care what you do with it, i uploaded the source code and stuff if you wanna have it be your own pets, its fine as long as you credit me. Hope you like it! sorry i didnt comment it but its pretty simple
